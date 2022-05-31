@@ -1,0 +1,44 @@
+.logo-batman {
+    text-align: center;
+}
+
+.h1 {
+    text-align: center
+}
+
+.h2 {
+    background-color: #C4C4C4;
+    color: #005677;
+}
+
+.footer {
+    background-color: #005677;
+}
+
+.h2-footer {
+    text-align: center;
+    color: white
+}
+
+.cursiva li strong {
+    font-style: italic;
+}
+
+.h2 {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+#titulo {
+    letter-spacing: 10px;
+}
+
+.listaSinPunto {
+    list-style: none;
+}
+
+.lista {
+    list-style: none;
+    list-style-position: outside;
+
+}
